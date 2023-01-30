@@ -23,4 +23,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\WindowTracker\WindowTracker.csproj" />
+  </ItemGroup>
+
 </Project>
